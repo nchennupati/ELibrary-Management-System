@@ -1,0 +1,54 @@
+D:\Dot net 18\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\Dot net 18\E Library Management\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\Dot net 18\E Library Management\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\Dot net 18\E Library Management\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\Dot net 18\E Library Management\DataAccessLayer\bin\Debug\ExceptionLayer.dll
+D:\Dot net 18\E Library Management\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\Dot net 18\E Library Management\DataAccessLayer\bin\Debug\ExceptionLayer.pdb
+D:\Dot net 18\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\Dot net 18\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\E Library Management\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\E Library Management\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\E Library Management\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\E Library Management\DataAccessLayer\bin\Debug\ExceptionLayer.dll
+D:\E Library Management\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\E Library Management\DataAccessLayer\bin\Debug\ExceptionLayer.pdb
+D:\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\E Library Management\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\ELibrary Management ASP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\ELibrary Management ASP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\ELibrary Management ASP\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\ELibrary Management ASP\DataAccessLayer\bin\Debug\ExceptionLayer.dll
+D:\ELibrary Management ASP\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\ELibrary Management ASP\DataAccessLayer\bin\Debug\ExceptionLayer.pdb
+D:\ELibrary Management ASP\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\ELibrary Management ASP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\ELibrary Management ASP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\New folder\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\New folder\WebApplication1\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\New folder\WebApplication1\DataAccessLayer\bin\Debug\EntityLayer.dll
+D:\New folder\WebApplication1\DataAccessLayer\bin\Debug\ExceptionLayer.dll
+D:\New folder\WebApplication1\DataAccessLayer\bin\Debug\EntityLayer.pdb
+D:\New folder\WebApplication1\DataAccessLayer\bin\Debug\ExceptionLayer.pdb
+D:\New folder\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.csprojResolveAssemblyReference.cache
+D:\New folder\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\New folder\WebApplication1\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

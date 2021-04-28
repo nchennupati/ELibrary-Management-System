@@ -1,0 +1,88 @@
+D:\Dot net 18\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\Dot net 18\E Library Management\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+D:\Dot net 18\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\Dot net 18\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\Mini Project\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\E Library Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\E Library Management\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\E Library Management\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\E Library Management\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\E Library Management\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+D:\E Library Management\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\E Library Management\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\E Library Management\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+D:\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\E Library Management\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\ELibrary Management ASP\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+D:\ELibrary Management ASP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\ELibrary Management ASP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\ELibrary Management ASP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\New folder\ELibrary Management System ASP\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\New folder\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+D:\New folder\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+D:\New folder\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+D:\New folder\WebApplication1\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\BusinessLogicLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\DataAccessLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\EntityLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\ExceptionLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\DataAccessLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\EntityLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\bin\Debug\ExceptionLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.csprojResolveAssemblyReference.cache
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\BusinessLogicLayer\obj\Debug\BusinessLogicLayer.pdb

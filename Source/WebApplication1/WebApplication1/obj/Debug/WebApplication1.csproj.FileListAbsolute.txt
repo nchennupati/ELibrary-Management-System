@@ -1,0 +1,123 @@
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\WebApplication1.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\BusinessLogicLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\EntityLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\ExceptionLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\DataAccessLayer.dll
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\BusinessLogicLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\EntityLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\ExceptionLayer.pdb
+C:\Users\Lenovo\Desktop\Capgemini Material\C#\WebApplication1\WebApplication1\bin\DataAccessLayer.pdb
+D:\New folder\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+D:\New folder\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+D:\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+D:\New folder\WebApplication1\WebApplication1\bin\WebApplication1.dll
+D:\New folder\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+D:\New folder\WebApplication1\WebApplication1\bin\BusinessLogicLayer.dll
+D:\New folder\WebApplication1\WebApplication1\bin\EntityLayer.dll
+D:\New folder\WebApplication1\WebApplication1\bin\ExceptionLayer.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\New folder\WebApplication1\WebApplication1\bin\DataAccessLayer.dll
+D:\New folder\WebApplication1\WebApplication1\bin\BusinessLogicLayer.pdb
+D:\New folder\WebApplication1\WebApplication1\bin\EntityLayer.pdb
+D:\New folder\WebApplication1\WebApplication1\bin\ExceptionLayer.pdb
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+D:\New folder\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\New folder\WebApplication1\WebApplication1\bin\DataAccessLayer.pdb
+D:\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+D:\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+D:\New folder\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\ApplicationInsights.config
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\csc.exe
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\Microsoft.CSharp.Core.targets
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\System.Collections.Immutable.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\System.Reflection.Metadata.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\vbc.exe
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\roslyn\VBCSCompiler.exe.config
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\WebApplication1.dll.config
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\WebApplication1.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\WebApplication1.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\BusinessLogicLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\EntityLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\ExceptionLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.Agent.Intercept.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.PerfCounterCollector.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\DataAccessLayer.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\BusinessLogicLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\EntityLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\ExceptionLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.DependencyCollector.xml
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.ServerTelemetryChannel.xml
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.Web.xml
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.AI.WindowsServer.xml
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.ApplicationInsights.xml
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\bin\DataAccessLayer.pdb
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\obj\Debug\WebApplication1.csprojResolveAssemblyReference.cache
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\obj\Debug\WebApplication1.dll
+\\Din66009089\lnc 103\ELibrary Management_FoldersFiles\Development\Source\WebApplication1\WebApplication1\obj\Debug\WebApplication1.pdb

@@ -1,0 +1,110 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="HomeMaster.master.cs" Inherits="WebApplication1.HomeMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome to ELib Inc.</title>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript">
+        $("#slideshow > div:gt(0)").hide();
+
+        setInterval(function () {
+            $('#slideshow > div:first')
+              .fadeOut(1000)
+              .next()
+              .fadeIn(1000)
+              .end()
+              .appendTo('#slideshow');
+        }, 3000);
+    </script>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+        <div id="header-wrapper">
+		    <div id="header">
+			    <div id="menu1">
+				    <table>
+                        <tr>
+                            <td>
+                                <a href="Home.aspx">Home</a>
+                            </td>
+                            <td>
+                                <a href="Glance.aspx">Glance</a>
+                            </td>
+                            <td>
+                                <a href="AccessFreebies.aspx">Freebies</a>
+                            </td>
+                            <td>
+                                <a href="Search.aspx">Search</a>
+                            </td>
+                            <td>
+                                <a href="Register.aspx">Register</a>
+                            </td>
+                            <td>
+                                <a href="Login.aspx">Login</a>
+                            </td>
+                        </tr>
+                    </table>
+			    </div>
+		    </div>
+		<!-- end #header --> 
+	    </div>
+	    <div id="welcome">
+            <div id="slideshow">
+                <div>
+                    <img src="book1.jpg" />
+                </div>
+                <div>
+                    <img src="book2.jpg" />
+                </div>
+                <div>
+                    <img src="book3.jpg" />
+                </div>
+            </div>
+	    </div>
+        <br />
+        <br />
+        <br />
+        <div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content" >
+					<div class="post">
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server"></asp:ContentPlaceHolder>
+					</div>
+				</div>
+				<!-- end #content -->
+				
+				<!-- end #sidebar -->
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+	<div id="splash">
+		<ul>
+			<li class="first"><img src="images/pics01.jpg" width="225" height="225" alt="" /></li>
+			<li><img src="images/pics02.jpg" width="225" height="225" alt="" /></li>
+			<li><img src="images/pics03.jpg" width="225" height="225" alt="" /></li>
+			<li><img src="images/pics04.jpg" width="225" height="225" alt="" /></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <div id="footer">
+	<p>Copyright (c) 2017 ELibInc. All rights reserved. </p>
+</div>
+<!-- end #footer -->
+
+    </form>
+</body>
+</html>

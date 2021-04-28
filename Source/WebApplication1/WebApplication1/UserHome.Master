@@ -1,0 +1,165 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="UserHome.master.cs" Inherits="WebApplication1.UserHome" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>Welcome to ELib Inc.</title>
+    
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script type="text/javascript">
+        $("#slideshow > div:gt(0)").hide();
+
+        setInterval(function () {
+            $('#slideshow > div:first')
+              .fadeOut(1000)
+              .next()
+              .fadeIn(1000)
+              .end()
+              .appendTo('#slideshow');
+        }, 3000);
+    </script>
+    <style type="text/css">
+        .auto-style1 {
+            width: 50px;
+        }
+         section{
+            width:100%;
+            display:block;
+            float:none;
+        }
+        aside {
+            width:30%;
+            display:inline-block;
+            float:left;
+            
+            height:450px;
+        }
+        article{
+            width:68%;
+            display:inline-block;
+            
+
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div id="wrapper">
+        <div id="header-wrapper">
+		    <div id="header">
+			    <div id="menu1">
+				    <table>
+                        <tr>
+                            <td>
+                                <a href="UserMain.aspx">Home</a>
+                            </td>
+                            <td>
+                                <a href="UserGlance.aspx">Glance</a>
+                            </td>
+                            <td>
+                                <a href="UserFreebies.aspx">Freebies</a>
+                            </td>
+                            <td>
+                                <a href="UserSearch.aspx">Search</a>
+                            </td>
+
+                            <td>
+                                <a href="UpdateProfile.aspx">Update Profile</a>
+                            </td>
+                            <td>
+                                <a href="LogOut.aspx">Logout</a>
+                            </td>
+                        </tr>
+                    </table>
+			    </div>
+		    </div>
+		<!-- end #header --> 
+	    </div>
+	    <div id="welcome">
+            <div id="slideshow">
+                <div>
+                    <img src="book1.jpg" />
+                </div>
+                <div>
+                    <img src="book2.jpg" />
+                </div>
+                <div>
+                    <img src="book3.jpg" />
+                </div>
+            </div>
+	    </div>
+        <br />
+        <br />
+        <br />
+        <section>
+        <div id="page">
+		<div id="page-bgtop">
+			<div id="page-bgbtm">
+				<div id="content">
+					<div class="post">
+                        <article>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderMain" runat="server"></asp:ContentPlaceHolder>
+                            </article>
+					</div>
+				</div>
+				<!-- end #content -->
+                <aside>
+				<div id="sidebar">
+					<center>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolderAsideBar" runat="server">
+                            
+        </asp:ContentPlaceHolder>
+                    </center>
+    
+				</div>
+				<!-- end #sidebar -->
+                    </aside>
+
+				<div style="clear: both;">&nbsp;</div>
+			</div>
+		</div>
+	</div>
+            </section>
+	<div id="splash">
+		<ul>
+			<li class="first"><img src="images/pics01.jpg" width="225" height="225" alt="" /></li>
+			<li><img src="images/pics02.jpg" width="225" height="225" alt="" /></li>
+			<li><img src="images/pics03.jpg" width="225" height="225" alt="" /></li>
+			<li><img src="images/pics04.jpg" width="225" height="225" alt="" /></li>
+		</ul>
+	</div>
+	<!-- end #menu -->
+	<div id="three-columns">
+		<div id="column1">
+			<h2>Maecenas luctus="column1">
+			<h2>Maecenas luctus</h2>
+			<p>Etiam non felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem. Mauris quam enim, molestie.</p>
+			<p><a href="#" class="link-style">Read More</a></p>
+		</div>
+		<div id="column2">
+			<h2>Fusce fringilla</h2>
+			<p>Etiam non felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem. Mauris quam enim, molestie.</p>
+			<p><a href="#" class="link-style">Read More</a></p>
+		</div>
+		<div id="column3">
+			<h2>Praesent mattis</h2>
+			<p>Etiam non felis. Donec ut ante. In id eros. Suspendisse lacus turpis, cursus egestas at sem. Mauris quam enim, molestie.</p>
+			<p><a href="#" class="link-style">Read More</a></p>
+		</div>
+	</div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+        
+        </asp:ContentPlaceHolder>
+    </div>
+        <div id="footer">
+	<p>Copyright (c) 2012 Sitename.com. All rights reserved. Design by <a href="http://www.freecsstemplates.org">FCT</a>.</p>
+</div>
+<!-- end #footer -->
+
+    </form>
+</body>
+</html>

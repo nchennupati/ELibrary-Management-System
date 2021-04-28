@@ -1,0 +1,5 @@
+D:\Dot net 18\E Library Management\ExceptionLayer\bin\Debug\ExceptionLayer.dll
+D:\Dot net 18\E Library Management\ExceptionLayer\bin\Debug\ExceptionLayer.pdb
+D:\Dot net 18\E Library Management\ExceptionLayer\obj\Debug\ExceptionLayer.csprojResolveAssemblyReference.cache
+D:\Dot net 18\E Library Management\ExceptionLayer\obj\Debug\ExceptionLayer.dll
+D:\Dot net 18\E Library Management\ExceptionLayer\obj\Debug\ExceptionLayer.pdb

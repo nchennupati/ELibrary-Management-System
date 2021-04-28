@@ -1,0 +1,10 @@
+D:\Dot net 18\E Library Management\EntityLayer\bin\Debug\EntityLayer.dll
+D:\Dot net 18\E Library Management\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\Dot net 18\E Library Management\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\Dot net 18\E Library Management\EntityLayer\obj\Debug\EntityLayer.dll
+D:\Dot net 18\E Library Management\EntityLayer\obj\Debug\EntityLayer.pdb
+D:\E Library Management\EntityLayer\bin\Debug\EntityLayer.dll
+D:\E Library Management\EntityLayer\bin\Debug\EntityLayer.pdb
+D:\E Library Management\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+D:\E Library Management\EntityLayer\obj\Debug\EntityLayer.dll
+D:\E Library Management\EntityLayer\obj\Debug\EntityLayer.pdb
